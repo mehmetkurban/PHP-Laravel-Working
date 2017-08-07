@@ -1,2 +1,2 @@
-# PHP-Laravel-Working
-Core PHP and Laravel Framework coding
+# halicuniversitesiwebprogramlama2016
+Derste yaptıklarımız
